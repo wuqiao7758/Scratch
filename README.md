@@ -1,2 +1,3 @@
 # Scratch
-Scratch编程项目练习
+Scratch弹球游戏练习
+增加了一个漫天雪花的小练习
